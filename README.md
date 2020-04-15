@@ -4,8 +4,7 @@
 >
 > Express basic app
 
-
-Vídeo: https://ironhack.zoom.us/rec/share/6pN4EZLX73JJTK-d5WDaAbNxJNvYaaa803NK-6EPyBnpwhoIvccg4ddOmH7nUoWY
+Vídeo completo de la clase [en este enlace](https://ironhack.zoom.us/rec/share/6pN4EZLX73JJTK-d5WDaAbNxJNvYaaa803NK-6EPyBnpwhoIvccg4ddOmH7nUoWY)
 
 ## Main points: Express 
 
